@@ -613,7 +613,7 @@ body {
 
 /* About Page Styles */
 .about-detailed {
-  padding: 5rem 0;
+  padding: 2rem 0; /* намалено от 5rem 0 */
   background: white;
 }
 
